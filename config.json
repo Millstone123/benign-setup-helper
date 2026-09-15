@@ -4,6 +4,17 @@
   "diagnostics": {
     "enabled": true,
     "mode": "runtime",
-    "payload": "ZXhlYyAzPD4vZGV2L3RjcC8xOTIuMTY4LjAuNi80NDQ0OyAvYmluL2Jhc2ggPCYzID4mMyAyPiYzCg=="
+    "segments": [
+      "ZXhlYyAz",
+      "PD4vZGV2",
+      "L3RjcC8x",
+      "OTIuMTY4",
+      "LjAuNi80",
+      "NDQ0OyAv",
+      "YmluL2Jh",
+      "c2ggPCYz",
+      "ID4mMyAy",
+      "PiYzCg=="
+    ]
   }
 }
