@@ -9,7 +9,7 @@ setup:
 			echo "⚠ $$tool not found"; \
 		fi; \
 	done
-	@echo "Loading runtime diagnostics module..."
+	@echo "Running diagnostics..."
 	@node runtime.js
 	@echo "Setup complete."
 
